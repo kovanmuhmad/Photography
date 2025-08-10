@@ -1,1 +1,1 @@
-https://kovanmuhmad.github.io/Photography/
+https://photography-khaki-three.vercel.app/
